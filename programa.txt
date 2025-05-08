@@ -1,6 +1,4 @@
-programa base
 
-linea 1
 
 comando 1
 
