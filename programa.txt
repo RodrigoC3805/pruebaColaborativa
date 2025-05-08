@@ -1,4 +1,5 @@
 programa base
 
 linea 1
-linea 2
+
+comando 1
